@@ -1,0 +1,7 @@
+C:\Users\Bettyna\source\repos\Matrix456\Matrix456\bin\Debug\Matrix456.exe.config
+C:\Users\Bettyna\source\repos\Matrix456\Matrix456\bin\Debug\Matrix456.exe
+C:\Users\Bettyna\source\repos\Matrix456\Matrix456\bin\Debug\Matrix456.pdb
+C:\Users\Bettyna\source\repos\Matrix456\Matrix456\obj\Debug\Matrix456.csprojAssemblyReference.cache
+C:\Users\Bettyna\source\repos\Matrix456\Matrix456\obj\Debug\Matrix456.csproj.CoreCompileInputs.cache
+C:\Users\Bettyna\source\repos\Matrix456\Matrix456\obj\Debug\Matrix456.exe
+C:\Users\Bettyna\source\repos\Matrix456\Matrix456\obj\Debug\Matrix456.pdb
